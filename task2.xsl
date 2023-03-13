@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:output method="xml" indent="yes"/>
-  <xsl:template match="/">
+<xsl:template match="/">
     <math xmlns="http://www.w3.org/1998/Math/MathML">
       <svg xmlns="http://www.w3.org/2000/svg" width="640" height="480">
       <g xmlns="">
